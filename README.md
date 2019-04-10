@@ -8,7 +8,7 @@ We’re excited to see what you come up with!
 
 ## Architecture exercise
 
-The [Go playground provides](https://play.golang.org) the ability to run code directly through the web browser. We would like you to design a backend architecture to run arbitrary code samples in any programming language, and send the results back.
+The [Go playground provides](https://play.golang.org) the ability to run code directly through the web browser. We would like you to design a high level diagram for a backend architecture to run arbitrary code samples in any programming language, and send the results back.
 
 You can assume that there is already a frontend application capable of sending the code sample payload via WebSocket, along with the name of the programming language and its version. How would you design the architecture needed to safely execute arbitrary code in any programming language?
 
