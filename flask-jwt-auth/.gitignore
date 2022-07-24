@@ -1,0 +1,19 @@
+.env
+env
+venv
+temp
+tmp
+__pycache__
+
+*.pyc
+*.sqlite
+*.coverage
+.DS_Store
+env.sh
+migrations
+*.idea
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
